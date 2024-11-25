@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkthreejs_tesla"]=self["webpackChunkthreejs_tesla"]||[]).push([[594],{5609:function(e,t,n){n.r(t),n.d(t,{default:function(){return h}});var s=n(6768);const u={class:"about"};function a(e,t){return(0,s.uX)(),(0,s.CE)("div",u,t[0]||(t[0]=[(0,s.Lk)("h1",null,"This is an about page",-1)]))}var r=n(1241);const c={},l=(0,r.A)(c,[["render",a]]);var h=l}}]);
+//# sourceMappingURL=about.f564bd3d.js.map
